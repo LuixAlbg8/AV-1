@@ -15,7 +15,7 @@ utilizado no sistema operacional Linux, ele permite que várias pessoas colabore
 
 
 
-## 2- Github
+## 2- Github.
 
 * Conceito: Site onde pode-se armazenar projetos, códigos e compartilhamento de diversos códigos em uma única plantaforma para inúmeras pessoas.
   Como se fosse também uma grande hub para trabalhare compartilhar em conjunto os projetos.
@@ -25,3 +25,14 @@ utilizado no sistema operacional Linux, ele permite que várias pessoas colabore
   * Características
     - Vasto armazenamento de projetos de código aberto.
     - Programas que podem ser editados por outros programadores em um trabalho coletivo. 
+
+## 3- VS code.
+
+* Conceito: Editor de código aberto desenvolvido pela microsoft.
+   O sistema é precisamente associado ao GitHub, permitindo a criação de softwares Desktop com HTML, CSS e JavaScript.
+
+  <img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png" width="500px"> 
+
+  * Características:
+    - Ampla gama de linguagens de programação utilizável.
+    - Utilização de recursos embutidos por depuração, realce de sintaxe e conclusão automática de código.
